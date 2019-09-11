@@ -1,0 +1,5 @@
+Sistemas Operativos:
+    - Administración de procesos
+    - Entrada/Salida
+    - Administración de archivos
+    - Memoria
